@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Yipeng Liu (刘一澎)"
 title_separator          : "-"
 name                     : &name "Yipeng Liu"
-description              : &description "Yipeng Liu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Yipeng Liu's academic portfolio"   
 url                      : https://efraimlyp.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,8 +28,6 @@ author:
   pronouns         : "him/his"
   bio              : "PhD Student in Statistics at Iowa State University"
   location         : "Ames, IA"
-  employer         : # "Red Brick University"
-  uri              : # URL
   email            : "yipengl@iastate.edu" 
 
   # Academic websites
