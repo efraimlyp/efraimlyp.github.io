@@ -9,7 +9,7 @@ redirect_from:
 
 Hello!
 
-I am currently a Ph.D. student at the [Statistics Department](https://www.stat.iastate.edu/) at the [Iowa State University](https://www.iastate.edu/).
+I am currently a Ph.D. student at the [Statistics Department](https://www.stat.iastate.edu/) at the [Iowa State University](https://www.iastate.edu/). Before that, I received my B.S. degree in Data Science & Big Data Technology from [Central University of Finance and Economics](https://en.cufe.edu.cn/) in Beijing, China and M.S. degree from the [University of Michigan, Ann Arbor](https://umich.edu/). I was fortunate to work with Dr. [Ivo Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov) and [Simeone Marino](https://medschool.umich.edu/profile/2984/simeone-marino) from the [Statistics Online Computational Resources](https://socr.umich.edu/) Lab. I also have worked closely with Dr. [Brendon Watson](https://medicine.umich.edu/dept/psychiatry/brendon-o-watson-md-phd) from the [Watson Lab](https://sites.google.com/view/watsonlab/) on the nematodes project.
 
 A data-driven personal website
 ======
