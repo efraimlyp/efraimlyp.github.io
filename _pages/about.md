@@ -9,7 +9,7 @@ redirect_from:
 
 Hello!
 
-I am
+I am currently a Ph.D. student at the [Statistics Department](https://www.stat.iastate.edu/) at the [Iowa State University](https://www.iastate.edu/).
 
 A data-driven personal website
 ======
