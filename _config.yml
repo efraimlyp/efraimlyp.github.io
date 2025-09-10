@@ -23,7 +23,7 @@ repository               : "efraimlyp/efraimlyp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.PNG"
   name             : "Yipeng Liu"
   pronouns         : "him/his"
   bio              : "PhD Student in Statistics at Iowa State University"
