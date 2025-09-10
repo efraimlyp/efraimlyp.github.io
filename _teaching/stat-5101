@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "STAT 5101 - Statistical Methods for Data Analysis"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-stat-5101
@@ -7,3 +7,9 @@ venue: "Department of Statistics, Iowa State University"
 semester: "Fall 2025"
 location: "Ames, IA"
 ---
+**Course Description:**  
+A first course in statistics for graduate students from the applied sciences. Principles of data analysis and scientific inference, including estimation, hypothesis testing, and the construction of interval estimates. Statistical concepts and models, including group comparison, blocking, and linear regression. Different sections are designed for students in various disciplines, and additional methods covered may depend on the target audience. Topics covered may include basic experimental designs and analysis of variance for those designs, analysis of categorical data, logistic and log-linear regression, likelihood-based inference, and the use of simulation.
+
+**Teaching Role**  
+- Lab Instructor
+- Grader
