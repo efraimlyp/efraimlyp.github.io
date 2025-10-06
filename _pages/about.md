@@ -19,8 +19,8 @@ I'm broadly interested in statistical theory, methodology, and applications in m
 
 - High-dimensional statistical inference
 - Biostatistics, bioinformatics and EHR data
+- Synthetic data and digital twins
 - Data imputation and missing data
-- Time series and forecasting
 
 Contact
 ======
