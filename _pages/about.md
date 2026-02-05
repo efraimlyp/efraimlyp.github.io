@@ -11,10 +11,7 @@ redirect_from:
 > – Taylor Swift
 
 
-Hi! I am currently a Ph.D. student in the [Statistics Department](https://www.stat.iastate.edu/) at the [Iowa State University](https://www.iastate.edu/). Before that, I received my B.S. degree in Data Science & Big Data Technology from [Central University of Finance and Economics](https://en.cufe.edu.cn/) in Beijing, China and M.S. degree in Data Science from the [University of Michigan, Ann Arbor](https://umich.edu/). 
-
-At Michigan, I was fortunate to work with Dr. [Ivo Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov) and Dr. [Simeone Marino](https://medschool.umich.edu/profile/2984/simeone-marino) in the [Statistics Online Computational Resources](https://socr.umich.edu/) Lab, where I focused on large-scale electronic health record (EHR) data obfuscation and the development and evaluation of privacy–utility metrics for synthetic data. In addition, I worked closely with Dr. [Brendon Watson](https://medicine.umich.edu/dept/psychiatry/brendon-o-watson-md-phd) in the [Watson Lab](https://sites.google.com/view/watsonlab/) on the [nematodes project](files/nematodesposter.pdf), focusing on data modeling and analysis of neuronal fluorescence traces to gain insights into the sleep dynamics of C. elegans.
-
+Hi! I am currently a Ph.D. student in the [Statistics Department](https://www.stat.iastate.edu/) at the [Iowa State University](https://www.iastate.edu/). Before that, I received my M.S. degree in Data Science from the University of Michigan, advised by Prof. [Ivo Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov) and Dr. [Simeone Marino](https://medschool.umich.edu/profile/2984/simeone-marino) in the [Statistics Online Computational Resources](https://socr.umich.edu/) Lab. Before Michigan, I received my B.S. in Data Science and Big Data Technology from Central University of Finance and Economics in Beijing, China.
 
 Research Interests
 ======
