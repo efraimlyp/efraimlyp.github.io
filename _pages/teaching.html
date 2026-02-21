@@ -1,33 +1,12 @@
 ---
-layout: page
+layout: archive
 title: "Teaching"
 permalink: /teaching/
+author_profile: true
 ---
 
-<h2>Teaching Experience at Iowa State University (ISU)</h2>
+{% include base_path %}
 
-<table>
-  <thead>
-    <tr>
-      <th>Course</th>
-      <th>Semester</th>
-      <th>Role</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for course in site.teaching reversed %}
-    <tr>
-      <td><a href="{{ course.url }}">{{ course.title }}</a></td>
-      <td>{{ course.semester }}</td>
-      <td>
-        {% if course.teaching_role %}
-          {{ course.teaching_role | join: ", " }}
-        {% else %}
-          <!-- fallback if teaching_role not defined -->
-          {{ course.type }}
-        {% endif %}
-      </td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
