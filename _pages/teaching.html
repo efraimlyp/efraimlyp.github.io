@@ -8,6 +8,6 @@ permalink: /teaching/
 
 | Course | Semester | Role |
 |--------|---------|------|
-| STAT 5101: Statistical Methods for Data Analysis | Fall 2025 | Lab Instructor |
-| STAT 4212: Experimental Design and Data Analysis | Spring 2026 | Grader |
-| DS 4010: Data Science Capstone | Spring 2026 | Grader |
+{% for course in site.teaching %}
+| [{{ course.title }}]({{ course.url }}) | {{ course.semester }} | {{ course.teaching_role | join: ", " }} |
+{% endfor %}
