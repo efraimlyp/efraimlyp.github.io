@@ -16,40 +16,13 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Journal Articles</h2>
+<hr>
+
 {% assign myname = "Yipeng Liu" %}
 
-{% if site.publication_category %}
-
-  {% for category in site.publication_category %}
-    
-    <h2>{{ category[1].title }}</h2>
-    <hr>
-
-    {% for post in site.publications reversed %}
-      {% if post.category == category[0] %}
-
-        {% assign authors = post.authors | replace: myname, "<strong>" | append: myname | append: "</strong>" %}
-
-        <p style="margin-bottom: 1.2em;">
-          {{ authors }} ({{ post.date | date: "%Y" }}).
-          <a href="{{ post.url }}" style="color:#1EAEDB;">
-            <em>{{ post.title }}</em>
-          </a>.
-          <br>
-          {{ post.venue }}.
-        </p>
-
-      {% endif %}
-    {% endfor %}
-
-  {% endfor %}
-
-{% else %}
-
-  <h2>Publications</h2>
-  <hr>
-
-  {% for post in site.publications reversed %}
+{% for post in site.publications reversed %}
+  {% if post.category == "manuscript" %}
 
     {% assign authors = post.authors | replace: myname, "<strong>" | append: myname | append: "</strong>" %}
 
@@ -62,6 +35,5 @@ author_profile: true
       {{ post.venue }}.
     </p>
 
-  {% endfor %}
-
-{% endif %}
+  {% endif %}
+{% endfor %}
