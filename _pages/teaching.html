@@ -6,8 +6,21 @@ permalink: /teaching/
 
 ## Teaching Experience at Iowa State University (ISU)
 
-| Course | Semester | Role |
-|--------|---------|------|
-{% for course in site.teaching %}
-| [{{ course.title }}]({{ course.url }}) | {{ course.semester }} | {{ course.teaching_role | join: ", " }} |
-{% endfor %}
+<table>
+  <thead>
+    <tr>
+      <th>Course</th>
+      <th>Semester</th>
+      <th>Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for course in site.teaching %}
+    <tr>
+      <td><a href="{{ course.url }}">{{ course.title }}</a></td>
+      <td>{{ course.semester }}</td>
+      <td>{{ course.teaching_role | join: ", " }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
