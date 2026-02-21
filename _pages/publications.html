@@ -19,16 +19,12 @@ author_profile: true
 <h2>Journal Articles</h2>
 <hr>
 
-{% assign myname = "Yipeng Liu" %}
-
 {% for post in site.publications reversed %}
   {% if post.category == "manuscript" %}
 
-    {% assign authors = post.authors | replace: myname, "<strong>" | append: myname | append: "</strong>" %}
-
     <p style="margin-bottom: 1.2em;">
-      {{ authors }} ({{ post.date | date: "%Y" }}).
-      <a href="{{ post.url }}" style="color:#1EAEDB;">
+      {{ post.authors }} ({{ post.date | date: "%Y" }}).
+      <a href="{{ post.paperurl }}" style="color:#1EAEDB;" target="_blank">
         <em>{{ post.title }}</em>
       </a>.
       <br>
