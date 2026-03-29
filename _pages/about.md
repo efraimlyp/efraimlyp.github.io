@@ -11,7 +11,7 @@ redirect_from:
 > – Taylor Swift
 
 
-Hi! I am currently a Ph.D. student in the [Statistics Department](https://www.stat.iastate.edu/) at the [Iowa State University](https://www.iastate.edu/). Before that, I received my M.S. degree in Data Science from the University of Michigan, advised by Prof. [Ivo Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov) and Dr. [Simeone Marino](https://medschool.umich.edu/profile/2984/simeone-marino) in the [Statistics Online Computational Resources](https://socr.umich.edu/) Lab. Before Michigan, I received my B.S. in Data Science and Big Data Technology from Central University of Finance and Economics in Beijing, China.
+Hi! I am currently a Ph.D. student in the [Statistics Department](https://www.stat.iastate.edu/) at the [Iowa State University](https://www.iastate.edu/). Before that, I received my M.S. degree in Data Science from the University of Michigan, advised by Prof. [Ivo Dinov](https://www.socr.umich.edu/people/dinov/) and Dr. [Simeone Marino](https://medschool.umich.edu/profile/2984/simeone-marino) in the [Statistics Online Computational Resources](https://socr.umich.edu/) Lab. Before Michigan, I received my B.S. in Data Science and Big Data Technology from Central University of Finance and Economics in Beijing, China.
 
 Research Interests
 ======
